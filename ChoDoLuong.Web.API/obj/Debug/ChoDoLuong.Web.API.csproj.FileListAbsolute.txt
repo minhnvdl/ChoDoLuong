@@ -1,0 +1,14 @@
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\ChoDoLuong.Web.API.dll.config
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\ChoDoLuong.Web.API.dll
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\ChoDoLuong.Web.API.pdb
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\Newtonsoft.Json.dll
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\System.Net.Http.Formatting.dll
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\System.Web.Http.dll
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\System.Web.Http.WebHost.dll
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\Newtonsoft.Json.xml
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\System.Net.Http.Formatting.xml
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\System.Web.Http.xml
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\bin\System.Web.Http.WebHost.xml
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\obj\Debug\ChoDoLuong.Web.API.csprojResolveAssemblyReference.cache
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\obj\Debug\ChoDoLuong.Web.API.dll
+D:\GITHUB\ChoDoLuong\ChoDoLuong.Web.API\obj\Debug\ChoDoLuong.Web.API.pdb

@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+
+<link href="@Url.Content("~/Areas/Manage/Content/")plugins/datatables/dataTables.bootstrap.css" rel="stylesheet" />
+<link rel="stylesheet" href="@Url.Content("~/Areas/Manage/Content/")plugins/datepicker/datepicker3.css">
+<section class="content-header clearfix">
+    <h1 class="pull-left">
+        Danh mục
+    </h1>
+    <div class="pull-right">
+        <button type="button" class="btn btn-block btn-primary btn-flat"><i class="fa fa-plus-square"></i> Thêm mới</button>
+    </div>
+</section>
+<section class="content">
+    <!-- Small boxes (Stat box) -->
+    <div class="row">
+        <div class="col-md-12">
+            <div class="box box-primary">
+                <div class="box-header">
+                    <i class="fa fa-edit"></i>
+
+                    <h3 class="box-title">Buttons</h3>
+                </div>
+                <div class="box-body">
+                    <table id="tbCategory" class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>Mã</th>
+                                <th>Tên</th>
+                                <th>Hình ảnh</th>
+                                <th>ShowOnhome</th>
+                                <th>Thứ tự</th>
+                                <th>Ngày tạo</th>
+                                <th>Ngày sửa</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <!-- /.box -->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- DATA TABLES SCRIPT -->
+<script src="@Url.Content("~/Areas/Manage/Content/")plugins/datatables/jquery.dataTables.min.js"></script>
+<script src="@Url.Content("~/Areas/Manage/Content/")plugins/datatables/dataTables.bootstrap.min.js"></script>
+<script src="~/Areas/Manage/Content/js/commonjs.js"></script>
+<script src="~/Areas/Manage/Content/js/category.js"></script>
+
